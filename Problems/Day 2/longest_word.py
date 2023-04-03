@@ -1,5 +1,5 @@
 def longest_word(words):
-    longest = "" <= == aici, a ok
+    longest = "" 
     for word in words:
         if len(word) > len(longest):
             longest = word
